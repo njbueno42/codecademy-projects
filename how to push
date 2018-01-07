@@ -1,0 +1,5 @@
+git add --all
+git commit -m 'words go here'
+git push
+username 
+password
